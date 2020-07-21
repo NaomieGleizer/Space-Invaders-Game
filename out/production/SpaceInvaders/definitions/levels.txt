@@ -1,0 +1,19 @@
+START_LEVEL
+level_name:Space Invaders
+ball_velocities:0,600
+background:color(black)
+paddle_speed:650
+paddle_width:75
+block_definitions:definitions/blocks.txt
+blocks_start_x:100
+blocks_start_y:500
+row_height:6
+num_blocks:50
+START_BLOCKS
+
+aaaaaaaaaaaaaaaaaaaa--aaaaaaaaaaaaaaaaaaaa--aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa--aaaaaaaaaaaaaaaaaaaa--aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa--aaaaaaaaaaaaaaaaaaaa--aaaaaaaaaaaaaaaaaaaa
+
+END_BLOCKS
+END_LEVEL

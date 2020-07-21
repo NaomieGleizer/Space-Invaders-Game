@@ -1,0 +1,7 @@
+
+# block definitions
+bdef symbol:a width:7 height:6 hit_points:1 fill:color(lightViolet)
+
+
+# spacers definitions
+sdef symbol:- width:50
